@@ -1,6 +1,6 @@
-Thanks for downloading this template!
-
-Template Name: Yummy
-Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Group 1 : 
+1. Yardan Safir
+2. Muhammad Hafidh Ma’ruf
+3. Azza Maulana Aulia
+4. Astuti Wahyuningsih
+5. Muhammad Sabilar Rosyad
