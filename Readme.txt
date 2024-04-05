@@ -1,4 +1,4 @@
-Group 1 : 
+GROUP 1 : 
 1. Yardan Safir
 2. Muhammad Hafidh Ma’ruf
 3. Azza Maulana Aulia
